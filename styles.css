@@ -37,3 +37,15 @@ li {
 li:last-child {
   border-bottom: none;
 }
+.project-container{
+  display:flex;
+  justify-content:center;
+}
+.Projects {
+  width: 900px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}
