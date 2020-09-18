@@ -44,8 +44,8 @@ li:last-child {
 .Projects {
   width: 900px;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   flex-wrap: wrap;
   flex-direction: row;
-  
+
 }
