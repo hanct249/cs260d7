@@ -1,8 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 .page {
   display: flex;
   flex-wrap: wrap;
@@ -28,7 +24,7 @@
 .content {
   background-color: #EAEDF0;
   height: 600px;
-  
+
 }
 
 .sign-up {
@@ -47,7 +43,11 @@
 .feature-3 {
   background-color: #C8C6FA;
 }
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   body {
